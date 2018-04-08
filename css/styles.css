@@ -38,3 +38,10 @@ body {
 .navbar-inverse {
     background-color: #512DA8;
 }
+
+.form-inline {
+    padding:10px;
+}
+.form-inline > * {
+    margin:15px 30px !important;
+}
